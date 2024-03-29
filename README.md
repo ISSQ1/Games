@@ -1,2 +1,2 @@
-# Games
-My first platformer game in unity
+# Tito Game👾
+## Welcome to the Tito Game repository! This project contains all the assets, scripts, and scenes for our Unity 2D game. In this game, players step into the shoes of Tito, a courageous character navigating through a series of challenges and obstacles.Tito Game offers an immersive gaming experience for players. Feel free to explore the codebase, contribute to the development, or simply enjoy playing the game!🤍
